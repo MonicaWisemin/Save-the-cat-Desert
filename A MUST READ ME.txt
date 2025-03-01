@@ -1,0 +1,23 @@
+在开始之前，请点开gamewindow.py、ghost.py和cat.py修改图片存储的绝对路径至你保存文件的路径，否则会报错的
+这只是一个demo，所以没有很多的功能，但是我一个人做出来了！
+玩得开心——<3
+
+Start： 开始游戏
+Quit：关闭窗口
+操作键：方向左右键：左右移动；空格：射击
+Esc（游戏内）：退回主界面
+运行环境：python3
+
+
+
+
+Before starting this game, please open gameWindow.py, ghost.py and cat.py to change the absolute path of where the pictures store, 
+or it would report errors.
+This is just a demo, so it don't really have much fuctions, but I made it on my own!
+Have fun uwu<3
+
+Start: Start the game
+Quit: Close the entire window
+Movement: Left key / Right key: Moving left / right; Space: shoot
+Esc(in game): Return to the main menu
+Environment: python3
